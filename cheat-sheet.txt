@@ -1,0 +1,12 @@
+This is my cheat sheet.
+My Institute Cheat Sheet
+
+ls
+lists files and folders in a directory
+
+cd ~ change directory to home folder
+
+...hello
+hereagain
+appendingtexttoafile
+adding text
